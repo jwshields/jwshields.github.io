@@ -20,7 +20,7 @@ blockquote {
 }
 
 body {
-    color: #c2c2c2;
+    color: #D1D1D1;
     background-color: #393939;
 }
 
@@ -30,7 +30,7 @@ input[type=button],
 option {
     background-color: #505050;
     border: solid thin #3a3c3f;
-    color: #c2c2c2;
+    color: #D1D1D1;
     body: #7c7c7c;
 }
 
@@ -40,7 +40,7 @@ input[type=button]:hover,
 option:hover {
     background-color: #646464;
     border: solid thin #455061;
-    color: #c2c2c2;
+    color: #D1D1D1;
     pading: 5px;
 }
 
@@ -49,23 +49,23 @@ input[type=submit]:disabled,
 input[type=button]:disabled {
     background-color: #404040;
     border: solid thin #3a3c3f;
-    color: #c2c2c2;
+    color: #D1D1D1;
 }
 
 input,
 select,
 textarea {
     background-color: #3f3f3f;
-    color: #c2c2c2;
+    color: #D1D1D1;
     border: solid thin #57595e;
 }
 
 a {
-    color: #b0b8c6;
+    color: #CCD6E5;
 }
 
 a:hover {
-    color: #d1d5dd;
+    color: #E0E5F0;
 }
 
 code {
@@ -172,12 +172,12 @@ code {
 }
 
 .screenshot-comparison__label {
-    color: #c2c2c2;
+    color: #D1D1D1;
     text-shadow: 0px 0px 4px black, 0px 0px 4px black, 0px 0px 4px black, 0px 0px 4px black;
 }
 
 .screenshot-comparison__help {
-    color: #c2c2c2;
+    color: #D1D1D1;
 }
 
 .cover-movie-list__movie__title {
@@ -211,7 +211,7 @@ code {
 
 .search-bar__search-field__input {
     background-color: #333333;
-    color: #cacaca;
+    color: #D1D1D1;
     border: solid thin #3a3c3f;
 }
 
@@ -298,7 +298,7 @@ code {
 
 .user-info-bar {
     background: url("https://jwshields.github.io/ptp-dg/blackgrad.png") repeat-x;
-    color: #c2c2c2;
+    color: #D1D1D1;
 }
 
 .user-info-bar__text--hnr {
@@ -306,11 +306,11 @@ code {
 }
 
 .user-info-bar__link {
-    color: #b0b8c6;
+    color: #CCD6E5;
 }
 
 .user-info-bar__link:hover {
-    color: #b0b8c6;
+    color: #CCD6E5;
 }
 
 .user-info-bar__link--highlighted {
