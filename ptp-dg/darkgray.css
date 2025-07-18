@@ -360,6 +360,10 @@ span.spoiler-show a:hover {
     color: #e4e4e4;
 }
 
+span.spoiler-show img {
+    visibility: visible;
+}
+
 .staff-toolbar {
     background-color: #424242;
 }
