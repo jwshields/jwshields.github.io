@@ -779,3 +779,15 @@ span.spoiler-show img {
 .release-name-movie-list__movie__rating-container {
     background-color: #404040;
 }
+
+/* ############################################################################################################# */
+
+::-moz-selection {
+    color: #e6e6e6;
+    background: #436f9b;
+}
+
+::selection {
+    color: #e6e6e6;
+    background: #436f9b;
+}
